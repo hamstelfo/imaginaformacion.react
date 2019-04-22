@@ -1,0 +1,25 @@
+div {
+    width: 150px;
+    text-align: center;
+}
+
+p {
+    margin: 0px;
+}
+
+.fecha {
+    background-color: #D4A190;
+}
+
+.fecha p.message{
+    display: block;
+    font-weight: bold;
+}
+
+.fecha.no-message p.message{
+    display: none;
+}
+
+.hora {
+    background-color: #90C3D4;
+}
