@@ -1,0 +1,7 @@
+Por lo que veo, en esta aplicación Redux se está encargando de mantener y actualizar el estado.
+Definimos las acciones en actions/index.js y en los reducers decimos qué hacer en cada caso , de esta forma conseguimos abstraer el estado de la app.
+Nota: le he metido en el index.js
+
+let store = createStore(todoApp, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
+
+Para poder ver el estado desde el plugin de chrome, adjunto pantallazo.

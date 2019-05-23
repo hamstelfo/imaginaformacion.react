@@ -2,6 +2,15 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\uf.cards"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\uniflip.iframes"
+		},
+		{
+			"path": "D:\\UNIFUTBOL\\imaginaformacion\\imagina-ej9"
 		}
 	]
 }
